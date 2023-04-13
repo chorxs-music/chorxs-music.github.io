@@ -7,14 +7,14 @@ body {
     text-align: center;
   }
   
-  h3 {
-    color: rgb(255, 255, 255);
+  h2 {
+    color: rgb(99, 54, 234);
     text-align: center;
   }
   
   p {
     font-family: "Comic Sans MS", "Comic Sans";
-    color: rgb(255, 255, 255);
+    color: hsl(0, 0%, 100%);
     font-size: 20px;
     width: 800px;
     margin: 0 auto;
